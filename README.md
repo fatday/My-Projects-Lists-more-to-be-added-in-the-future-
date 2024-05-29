@@ -2,8 +2,7 @@
 
 Due to the academic integrity from school and confidential information from company or research, I can only share some of my codes samples that are not from course assignments/projects, internship projects, research projects.
 
-The following are the codes that I did not list out in this repo:
-
+The following are the code samples that not be avaliable in this repo:
 
 1. Data Structure and Algorithm Course Assignments (C/C++)
 2. Database Course Final Project (Java, SQL, Python)
@@ -13,5 +12,7 @@ The following are the codes that I did not list out in this repo:
 6. Statistical Learning Course Assignments (R, Python)
 7. Optimization Course Project (Matlab)
 8. Financial Math Course Assignments (Python)
-9. Bayesian Statistics Research (R)
+9. UBS Quant Researcher Intern Project (python)
+10. Scotiabank Quant Developer Intern Project (python)
+11. Bayesian Statistics Research (R)
 
