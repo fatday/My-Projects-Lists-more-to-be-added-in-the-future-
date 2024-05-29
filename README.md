@@ -1,5 +1,7 @@
 # Important Notes
 
+Hi, I am Zetian, an incoming Stanford ICME Master student :)
+
 Due to the academic integrity from school and confidential information from company or research, I can only share some of my codes samples that are not from course assignments/projects, internship projects, research projects.
 
 The following are the code samples that not be avaliable in this repo:
