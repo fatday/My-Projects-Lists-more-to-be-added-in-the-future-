@@ -1,8 +1,8 @@
-# Hi, I am Zetian, an incoming Stanford ICME Master student :)
-# My personal website if you want to know more about me: https://student.cs.uwaterloo.ca/~zj4li/contact.html
+#### Hi, I am Zetian, an incoming Stanford ICME Master student :)
+#### My personal website if you want to know more about me: https://student.cs.uwaterloo.ca/~zj4li/contact.html
 
 # Important Notes
-# Due to the academic integrity from school and confidential information from company or research, I can only share some of my codes samples that are not from course assignments/projects, internship projects, research projects.
+## Due to the academic integrity from school and confidential information from company or research, I can only share some of my codes samples that are not from course assignments/projects, internship projects, research projects.
 
 The following are the code samples that not be avaliable in this repo:
 
