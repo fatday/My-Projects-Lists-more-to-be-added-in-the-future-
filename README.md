@@ -1,2 +1,17 @@
-# My-OOP-Project
-My Previous OOP Project in 2021
+# Important Notes
+
+Due to the academic integrity from school and confidential information from company or research, I can only share some of my codes samples that are not from course assignments/projects, internship projects, research projects.
+
+The following are the codes that I did not list out in this repo:
+
+
+1. Data Structure and Algorithm Course Assignments (C/C++)
+2. Database Course Final Project (Java, SQL, Python)
+3. Numercial Methods Course Project (Matlab)
+4. Machine Learning Course Assignments (Python)
+5. Neutrual Network Course Assignments (Python)
+6. Statistical Learning Course Assignments (R, Python)
+7. Optimization Course Project (Matlab)
+8. Financial Math Course Assignments (Python)
+9. Bayesian Statistics Research (R)
+
