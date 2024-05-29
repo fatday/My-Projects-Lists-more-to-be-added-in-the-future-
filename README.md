@@ -4,17 +4,25 @@
 # Important Notes
 ## Due to the academic integrity from school and confidential information from company or research, I can only share some of my codes samples that are not from course assignments/projects, internship projects, research projects.
 
+This repo will include:
+1. OOP Course Final Project (C++)
+2. Self-Similar Process Research Study Sample (Python)
+3. Typed Course Notes and Research Study Notes
+
+
+
 The following are the code samples that not be avaliable in this repo:
 
 1. Data Structure and Algorithm Course Assignments (C/C++)
-2. Database Course Final Project (Java, SQL, Python)
-3. Numercial Methods Course Project (Matlab)
-4. Machine Learning Course Assignments (Python)
-5. Neutrual Network Course Assignments (Python)
-6. Statistical Learning Course Assignments (R, Python)
-7. Optimization Course Project (Matlab)
-8. Financial Math Course Assignments (Python)
-9. UBS Quant Researcher Intern Project (python)
-10. Scotiabank Quant Developer Intern Project (python)
-11. Bayesian Statistics Research (R)
+2. OOP Course Assignments (C++, bash)
+3. Database Course Final Project (Java, SQL, Python)
+4. Numercial Methods Course Project (Matlab)
+5. Machine Learning Course Assignments (Python)
+6. Neutrual Network Course Assignments (Python)
+7. Statistical Learning Course Assignments (R, Python)
+8. Optimization Course Project (Matlab)
+9. Financial Math Course Assignments (Python)
+10. UBS Quant Researcher Intern Project (python)
+11. Scotiabank Quant Developer Intern Project (python)
+12. Bayesian Statistics Research (R)
 
