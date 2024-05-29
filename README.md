@@ -25,4 +25,5 @@ The following are the code samples that not be avaliable in this repo:
 10. UBS Quant Researcher Intern Project (python)
 11. Scotiabank Quant Developer Intern Project (python)
 12. Bayesian Statistics Research (R)
-
+13. Image Caption Generator (Python, could generate the descriptrion of an image based on the input, but I lost the codes in my undergrad school server)
+14. Customer Account Bank Management System (C, but I lost the codes in my undergrad school server)
