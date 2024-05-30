@@ -22,7 +22,7 @@ The following are the code samples that not be avaliable in this repo:
 7. Statistical Learning Course Assignments (R, Python)
 8. Optimization Course Project (Matlab)
 9. Financial Math Course Assignments (Python)
-10. UBS Quant Researcher Intern Project (python, LGBM Online Learning + Multi Objective Learning, XGBoost Probabilistic Prediction)
+10. UBS Quant Researcher Intern Project (python, LGBM Online Learning + Multi Objective Learning, XGBoost Probabilistic Forecasting)
 11. Scotiabank Quant Developer Intern Project (python, calibrate pricing model prameters using parallel computing)
 12. Bayesian Statistics Research (R)
 13. Image Caption Generator (Python, could generate the descriptrion of an image based on the input, but I lost the codes in my undergrad school server)
