@@ -11,7 +11,7 @@ This repo will include:
 
 
 
-The following are the code samples that not be avaliable in this repo (due to some rules about company confidential or academic integrity at University of Waterloo):
+The following are the code samples that not be avaliable in this repo (due to some rules about company/research team's  confidential or academic integrity at University of Waterloo):
 
 1. Data Structure and Algorithm Course Assignments (C/C++)
 2. OOP Course Assignments (C++, bash)
